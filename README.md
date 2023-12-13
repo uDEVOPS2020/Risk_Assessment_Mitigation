@@ -3,8 +3,8 @@
 ## Risk assessment
 
 ### Reliability-realted assessment
-1. ([DAIC](./Risk_Assessment/DAIC/)) ([original repo](https://github.com/ICOS-OAA/ICOS.git))
-2. ([ICOS](./Risk_Assessment/ICOS/)) ([original repo](https://github.com/dessertlab/DAIC.git))
+1. ([DAIC](./Risk_Assessment/DAIC/)) ([original repo](https://github.com/dessertlab/DAIC.git))
+2. ([ICOS](./Risk_Assessment/ICOS/)) ([original repo](https://github.com/ICOS-OAA/ICOS.git))
 
 ### Performance- and Energy-related assessment 
 3. ([EASE 2022](./Risk_Assessment/EASE-2022-energy-ai-edge-containers-rep-pkg/)) ([original repo](https://github.com/S2-group/EASE-2022-energy-ai-edge-containers-rep-pkg.git))
