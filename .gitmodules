@@ -1,0 +1,3 @@
+[submodule "DAIC"]
+	path = Risk_Assessment/DAIC
+	url = https://github.com/dessertlab/DAIC.git
