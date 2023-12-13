@@ -1,3 +1,7 @@
 [submodule "DAIC"]
 	path = Risk_Assessment/DAIC
 	url = https://github.com/dessertlab/DAIC.git
+
+[submodule "Risk_Assessment/ICOS"]
+	path = Risk_Assessment/ICOS
+	url = https://github.com/ICOS-OAA/ICOS.git
