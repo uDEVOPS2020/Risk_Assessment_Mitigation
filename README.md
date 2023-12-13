@@ -12,5 +12,5 @@
 5. EASE 2023 ([original repo](https://github.com/S2-group/ease-2023-wasm-iot-rep-pkg.git))
 6. ICSOC 2023 ([original repo](https://github.com/S2-group/icsoc-2023-energy-perf-monitoring-docker-rep-pkg.git))
 
-### Risk mitigation
+## Risk mitigation
 1. Lacuna-evaluation ([original repo](https://github.com/S2-group/Lacuna-evaluation.git))
