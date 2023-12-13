@@ -14,3 +14,6 @@
 	path = Risk_Assessment/MOBILESOFT23
 	url = https://github.com/S2-group/mobilesoft-2023-app-vs-web-android-rep-pkg.git
 
+[submodule "Risk_Assessment/EASE23"]
+	path = Risk_Assessment/EASE23
+	url = https://github.com/S2-group/ease-2023-wasm-iot-rep-pkg.git
