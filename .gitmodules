@@ -6,8 +6,8 @@
 	path = Risk_Assessment/ICOS
 	url = https://github.com/ICOS-OAA/ICOS.git
 
-[submodule "Risk_Assessment/ComputerVision"]
-	path = Risk_Assessment/ComputerVision
+[submodule "Risk_Assessment/EASE"]
+	path = Risk_Assessment/EASE
 	url = https://github.com/S2-group/EASE-2022-energy-ai-edge-containers-rep-pkg.git
 
 [submodule "Risk_Assessment/MOBILESOFT23"]
