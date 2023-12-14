@@ -17,6 +17,11 @@
 [submodule "Risk_Assessment/EASE23"]
 	path = Risk_Assessment/EASE23
 	url = https://github.com/S2-group/ease-2023-wasm-iot-rep-pkg.git
+
 [submodule "Risk_Assessment/ICSOC23"]
 	path = Risk_Assessment/ICSOC23
 	url = https://github.com/S2-group/icsoc-2023-energy-perf-monitoring-docker-rep-pkg.git
+
+[submodule "Risk_Mitigation/Lacuna-evaluation"]
+	path = Risk_Mitigation/Lacuna-evaluation
+	url = https://github.com/S2-group/Lacuna-evaluation.git
