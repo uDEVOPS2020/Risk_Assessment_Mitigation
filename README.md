@@ -14,3 +14,4 @@
 
 ## Risk mitigation
 1. Lacuna-evaluation ([original repo](https://github.com/S2-group/Lacuna-evaluation.git))
+2. Micro2vec
