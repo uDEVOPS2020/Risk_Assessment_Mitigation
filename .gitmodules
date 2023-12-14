@@ -21,3 +21,7 @@
 [submodule "Risk_Assessment/Energy_Performance_Computer_IoT"]
 	path = Risk_Assessment/Energy_Performance_Computer_IoT
 	url = https://github.com/S2-group/ease-2023-wasm-iot-rep-pkg.git
+	
+[submodule "Risk_Assessment/Energy_Performance_Computer_Monitoring_Tools"]
+	path = Risk_Assessment/Energy_Performance_Computer_Monitoring_Tools
+	url = https://github.com/S2-group/icsoc-2023-energy-perf-monitoring-docker-rep-pkg.git
