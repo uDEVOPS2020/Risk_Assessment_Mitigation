@@ -24,7 +24,7 @@ This repo contains the following folders/sub-folders:
 	+ NORMATIVE	
 	+ REG
 		
-Each folder/sub-folder contains the following set of 13 logs:	
+Each folder/sub-folder contains the following set of 13 logs (*):	
 
 astaire.txt
 bono.txt
@@ -54,6 +54,7 @@ REGULAR EXPRESSIONS
 This repository also provides the regex.txt file, which contains regular expressions used in our study as well as for replication purposes. 
 
 
+(*) Some files are missing due to GitHub space limitations. Contact us in case.
 CONTACT:
 
 For any further information please contact the Authors:
